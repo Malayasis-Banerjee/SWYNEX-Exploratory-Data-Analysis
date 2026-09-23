@@ -161,8 +161,9 @@ This EDA provides a data-driven understanding of sales trends, revenue contribut
 - Total Sales by Payment Method
   ![Total Sales by Payment Method](Total Sales by Payment Method.png)
 - Top 10 Best Selling Items
-  (Total Sales by Payment Method.png)
-
+  ![Top 10 Best-Selling Items](Top 10 Best-Selling Items.png)
+-Bottom 5 Underperforming Items
+  ![Bottom 5 Underperforming Items](Bottom 5 Underperforming Items.png)
 ## How to Run
 1. Clone or download this repository.
 2. Ensure Python and Jupyter Notebook are installed.
