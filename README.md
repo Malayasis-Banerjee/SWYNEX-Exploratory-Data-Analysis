@@ -165,7 +165,7 @@ This EDA provides a data-driven understanding of sales trends, revenue contribut
   ![Top 10 Best-Selling Items](https://github.com/Malayasis-Banerjee/SWYNEX-Exploratory-Data-Analysis/blob/main/Top%2010%20Best-Selling%20Items.png)
 
 - Bottom 5 Underperforming Items  
-  ![Bottom 5 Underperforming Items](charts/bottom_5_underperforming_items.png)
+  ![Bottom 5 Underperforming Items](https://github.com/Malayasis-Banerjee/SWYNEX-Exploratory-Data-Analysis/blob/main/bottom_5_underperforming_items.png)
 ## How to Run
 1. Clone or download this repository.
 2. Ensure Python and Jupyter Notebook are installed.
