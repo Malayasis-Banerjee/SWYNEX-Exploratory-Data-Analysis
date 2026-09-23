@@ -160,6 +160,8 @@ This EDA provides a data-driven understanding of sales trends, revenue contribut
   ![Sales Distribution by Sales Channel](sales_channel_breakdown.png)
 - Total Sales by Payment Method
   ![Total Sales by Payment Method](Total Sales by Payment Method.png)
+- Top 10 Best Selling Items
+  (Total Sales by Payment Method.png)
 
 ## How to Run
 1. Clone or download this repository.
