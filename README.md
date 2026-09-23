@@ -162,7 +162,7 @@ This EDA provides a data-driven understanding of sales trends, revenue contribut
   ![Total Sales by Payment Method](total_sales_by_payment_method.png)
 
 - Top 10 Best-Selling Items  
-  ![Top 10 Best-Selling Items](top_10_best_selling_items.png)
+  ![Top 10 Best-Selling Items](Top 10 Best-Selling Items.png)
 
 - Bottom 5 Underperforming Items  
   ![Bottom 5 Underperforming Items](bottom_5_underperforming_items.png)
