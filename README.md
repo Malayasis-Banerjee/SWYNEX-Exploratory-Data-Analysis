@@ -158,12 +158,14 @@ This EDA provides a data-driven understanding of sales trends, revenue contribut
   ![Top Regions by Sales Amount](regional_sales.png)
 - Sales Distribution by Sales Channel
   ![Sales Distribution by Sales Channel](sales_channel_breakdown.png)
-- Total Sales by Payment Method
-  ![Total Sales by Payment Method](Total Sales by Payment Method.png)
-- Top 10 Best Selling Items
-  ![Top 10 Best-Selling Items](Top 10 Best-Selling Items.png)
--Bottom 5 Underperforming Items
-  ![Bottom 5 Underperforming Items](Bottom 5 Underperforming Items.png)
+- Total Sales by Payment Method  
+  ![Total Sales by Payment Method](total_sales_by_payment_method.png)
+
+- Top 10 Best-Selling Items  
+  ![Top 10 Best-Selling Items](top_10_best_selling_items.png)
+
+- Bottom 5 Underperforming Items  
+  ![Bottom 5 Underperforming Items](bottom_5_underperforming_items.png)
 ## How to Run
 1. Clone or download this repository.
 2. Ensure Python and Jupyter Notebook are installed.
